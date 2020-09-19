@@ -2,7 +2,7 @@
 
 Auto install VSCode Extensions.
 
-## How to Execute Extensions
+## How to Install
 
 ### Install Visual Studio Code
 
@@ -24,13 +24,15 @@ $ ./install_extensions.sh
 
 ## Windows
 
+Open powershell and execute the command.
+
 ```
 > git clone https://github.com/hikaruright/install-extensions-for-vscode.git
 > cd install-extensions-for-vscode
 > install_extensions.ps1
 ```
 
-## Japanese Extension
+## Japanese Extension(If needed.)
 
 Please execute the command if you needed.
 
