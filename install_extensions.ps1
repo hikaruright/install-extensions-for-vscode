@@ -66,6 +66,9 @@ code --install-extension Zignd.html-css-class-completion --force
 # XML
 code --install-extension DotJoshJohnson.xml --force
 
+# Draw.io
+code --install-extension hediet.vscode-drawio --force
+
 # lint
 code --install-extension taichi.vscode-textlint --force
 code --install-extension ics.japanese-proofreading --force
