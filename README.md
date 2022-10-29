@@ -4,7 +4,7 @@ Auto install VSCode Extensions.
 
 ## How to Install
 
-### Install Visual Studio Code
+### Rquired:Install Visual Studio Code
 
 Please refer and install Visual Studio Code
 
@@ -39,3 +39,7 @@ Please execute the command if you needed.
 ```
 $ code --install-extension MS-CEINTL.vscode-language-pack-ja --force
 ```
+
+## Minimal Install
+
+Won't install lanuage packs, use ``install-minimum`` instead by ``install-extensions-for-vscode``.
