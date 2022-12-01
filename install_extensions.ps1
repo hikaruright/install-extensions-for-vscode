@@ -70,8 +70,9 @@ code --install-extension DotJoshJohnson.xml --force
 code --install-extension hediet.vscode-drawio --force
 
 # lint
-code --install-extension taichi.vscode-textlint --force
+# code --install-extension taichi.vscode-textlint --force
 code --install-extension ics.japanese-proofreading --force
+code --install extension streetsidesoftware.code-spell-checker --force
 
 # Edit CSV with table
 code --install-extension janisdd.vscode-edit-csv --force
