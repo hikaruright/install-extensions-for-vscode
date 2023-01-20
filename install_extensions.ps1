@@ -62,6 +62,7 @@ code --install-extension yzane.markdown-pdf --force
 code --install-extension abusaidm.html-snippets --force
 code --install-extension mkaufman.HTMLHint --force
 code --install-extension Zignd.html-css-class-completion --force
+code --install-extension ecmel.vscode-html-css --force
 
 # XML
 code --install-extension DotJoshJohnson.xml --force
@@ -72,13 +73,17 @@ code --install-extension hediet.vscode-drawio --force
 # lint
 # code --install-extension taichi.vscode-textlint --force
 code --install-extension ics.japanese-proofreading --force
-code --install extension streetsidesoftware.code-spell-checker --force
+code --install-extension streetsidesoftware.code-spell-checker --force
+
+# Generation Support
+code --install-extension jrebocho.vscode-random --force
 
 # Edit CSV with table
 code --install-extension janisdd.vscode-edit-csv --force
 
 # Todo Tree
 code --install-extension gruntfuggly.todo-tree --force
+code --install-extension wayou.vscode-todo-highlight --force
 
 # Docker
 code --install-extension ms-azuretools.vscode-docker --force
@@ -135,10 +140,12 @@ code --install-extension dart-code.dart-code --force
 code --install-extension angular.ng-template --force
 code --install-extension mikael.angular-beastcode --force
 
-# TypeScript
-code --install-extension eg2.tslint --force
-
+# JavaScript / TypeScript
+# code --install-extension eg2.tslint --force
+code --install-extension dbaeumer.vscode-eslint --force
 code --install-extension stevencl.addDocComments --force
+code --install-extension ghmcadams.lintlens --force
+code --install-extension lvjiaxuan.vscode-eslint-disable --force
 
 # Re:View
 code --install-extension atsushieno.language-review --force
